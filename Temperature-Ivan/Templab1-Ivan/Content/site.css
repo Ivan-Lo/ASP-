@@ -1,0 +1,21 @@
+﻿.jumbotron {
+    background-color: aquamarine;
+}
+
+    .jumbotron h1 {
+        color: darkmagenta !important;
+    }
+
+h1 {
+    font-weight: bold;
+    font-size: 400%;
+}
+
+.validator {
+    margin-left: 1em;
+    color: red;
+}
+
+.error {
+    color: red;
+}
